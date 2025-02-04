@@ -13,17 +13,5 @@ Passionate about building scalable systems and contributing to open-source innov
 ---
 
 ### 🌱 Current Focus
-- **Learning**: Deep-diving into **Golang** concurrency and performance optimization.
-- **Exploring**: Design patterns (e.g., Factory, Observer, CQRS) for distributed systems.
-
----
-
-### 👯 Collaboration Goals
-- Contributing to **open-source projects** in backend development.
-- Building **resilient systems** with modern architectural patterns.
-- Partnering with **startups** to solve real-world problems with code.
-
----
-### 📈 GitHub Stats
-[![Gacheru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gache-ru&show_icons=true&theme=radical)](https://github.com/gache-ru)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gache-ru&layout=compact&theme=radical)](https://github.com/gache-ru)
+- **Learning**: Currently **Golang** concurrency and performance optimization.
+- **Exploring**: Design patterns (Factory, Observer, CQRS) for distributed systems.
