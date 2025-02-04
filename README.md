@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @https://github.com/gache-ru
 
-**🚀 Backend Developer** | **💡 Startups Enthusiast**  
+**🚀 FullStack Developer** | **💡 Startups Enthusiast**  
 Passionate about building scalable systems and contributing to open-source innovation.
 
 ---
