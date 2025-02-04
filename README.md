@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @Gacheru
 
 **🚀 FullStack Developer** | **💡 Startups Enthusiast**  
-Passionate about building scalable systems and contributing to open-source innovation.
+Passionate about building scalable systems and open to contributing to open-source innovation.
 
 ---
 
