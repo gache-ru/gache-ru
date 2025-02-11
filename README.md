@@ -60,6 +60,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-⭐️ From [Gacheru](https://github.com/gache-ru)
-
-Happy Coding! 🚀
+⭐️ Happy Coding 🚀
