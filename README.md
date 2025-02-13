@@ -50,6 +50,8 @@ I'm a passionate **Software Developer** with a love for building scalable, effic
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=gache-ru&color=blue) 
+
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
